@@ -114,6 +114,7 @@ button {
   text-align: center;
   position: relative;
   min-height: 430px;
+  padding-bottom: 40px;
 }
 .post-heading {
   text-transform: uppercase;
